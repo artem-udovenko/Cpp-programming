@@ -1,0 +1,2 @@
+## Description
+An allocator that uses memory on the stack (large stack_storage array). Assumes use with [std::allocator_traits](https://en.cppreference.com/w/cpp/memory/allocator_traits). One allocator can be used with several containers, correct memory alignment is supported.

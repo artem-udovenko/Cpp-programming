@@ -1,0 +1,2 @@
+## Description
+A list implementation in the style of std::list. Strong Exception Safety is supported. Internal class iterator of Bidirectional type is written. Correct use of arbitrary allocator using [std::allocator_traits](https://en.cppreference.com/w/cpp/memory/allocator_traits) is supported.

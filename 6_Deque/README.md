@@ -1,0 +1,2 @@
+## Description
+An implementation of deque in the style of std::deque. The code is fully templated, there is an internal iterator class. All kinds of iterators, internal types are supported, implied to be used instead of std::deque. Strong Exception Safety is supported. Optimized memory usage and asymptotics of methods are used.
